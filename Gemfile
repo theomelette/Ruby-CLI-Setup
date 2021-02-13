@@ -10,3 +10,4 @@ gem "pry"
 gem "faker"
 
 gem "colorize"
+gem 'activerecord-reset-pk-sequence'
